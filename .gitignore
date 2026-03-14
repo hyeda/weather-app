@@ -17,6 +17,7 @@ dist-ssr
 CHECKLIST.md
 README.md
 CLAUDE.md
+NOTES.md
 
 # Environment variables
 .env
