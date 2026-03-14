@@ -16,6 +16,8 @@ dist-ssr
 .claude/
 CHECKLIST.md
 README.md
+CLAUDE.md
+
 
 # Environment variables
 .env
